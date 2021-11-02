@@ -44,7 +44,7 @@ Note- For this demonstration purpose an in-memory LRU cache was used as there wa
     > Host: 127.0.0.1    
     > port: 8545,            
     > network_id: 2020 
-    > Gas price: 20000000000 wei (approx)
+  
 2. Compile and deploy the smart contract. 
     ```sh
     truffle deploy --reset

@@ -1,5 +1,5 @@
 const contractAddress ='0x645b9933C0BC658FB73bA0Fe7008aCF2f78Bb245';
-// Move it to environment variables or maintain a seperate DB for user and it's role
+
 const adminAddress = "0xA1939Ad5A187aaE4eA5C090D1e4DA6d58BF2bB5B";
 const jwtSecret = 'sssshhhh';
 
